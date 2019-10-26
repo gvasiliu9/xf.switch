@@ -3,7 +3,7 @@
 
 <a href="https://www.nuget.org/packages/Utmdev.Xf.Switch/" target="_blank"><img src="https://img.shields.io/nuget/v/Utmdev.Xf.Switch?style=for-the-badge"/></a>
 
-**Usage**
+**Usage:**
 
 Namespace:
 
@@ -27,6 +27,9 @@ Command:
 	        Debug.WriteLine(isOn);
 	    });
 
-**Demo**
+**Demo:**
 
-<img src="https://github.com/utmdev/xf.switcher/blob/master/Component/Demo/switcher.gif">
+<p align="center">	
+    <img src="https://github.com/utmdev/xf.switcher/blob/master/Component/Demo/switcher.gif">
+</p>
+
